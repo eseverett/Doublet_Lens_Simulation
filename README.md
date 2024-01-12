@@ -1,2 +1,3 @@
 # Projects
-Project Home
+
+Projects devloped during my physics undergrad course work.
